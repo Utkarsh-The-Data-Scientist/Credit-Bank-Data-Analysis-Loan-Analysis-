@@ -1,2 +1,2 @@
 # Credit-Bank-Data-Analysis-Loan-Analysis-
-Presented the overall approach of the analysis in a presentation. Mention the problem statement and the analysis approach briefly.  Identify the missing data and use appropriate method to deal with it. (Remove columns/or replace it with an appropriate value)
+This case study aims to give you an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that you have learnt in the EDA module, you will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
